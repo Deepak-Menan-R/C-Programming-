@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//To print from 1 01 101...Exchange the position of 0 and 1.
 main(){
 	int i,j,row;
 	printf("Enter number of rows to be printed : ");
